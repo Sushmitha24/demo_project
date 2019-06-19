@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.pes</groupId>
-  <artifactId>projectpes</artifactId>
+  <artifactId>project</artifactId>
   <version>1.0</version>
 
-  <name>projectpes</name>
+  <name>project</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
